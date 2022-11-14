@@ -14,7 +14,7 @@ Matthis Wieneke lebt in Gütersloh und arbeitet als Azure Full Stack Softwareent
 
 * 2019-2022 berufsbegleitendes Masterstudium - IT Management & Information Systems - FHDW, Paderborn
 * 2016-2019 duales Bachelorstudium - Wirtschaftsinformatik - FHDW, Paderborn
-* 2013-2016 Abitur - Berufliches Gymnasium Technik, Osnabrückk
+* 2013-2016 Abitur - Berufliches Gymnasium Technik, Osnabrück
 
 # Beruflicher Werdegang
 

@@ -14,13 +14,13 @@ Matthis Wieneke lives in Gütersloh and works as an Azure full stack software de
 
 * 2019-2022 part-time Master's degree - IT Management & Information Systems - FHDW, Paderborn
 * 2016-2019 dual bachelor's degree - Wirtschaftsinformatik - FHDW, Paderborn
-* 2013-2016 Abitur - Berufliches Gymnasium Technik, Osnabrückk
+* 2013-2016 Abitur - Berufliches Gymnasium Technik, Osnabrück
 
 # Professional career
 
-* seit 2022 Lecturer at the FHDW for the module &#8220;Web Technologies and Applications&#8221;
-* seit 2019 Expert witness in the *Evaluierungskommission für Studiengänge an der FHDW (EVAS)*
-* seit 2019 Full Stack Softwareentwickler
+* since 2022 Lecturer at the FHDW for the module &#8220;Web Technologies and Applications&#8221;
+* since 2019 Expert witness in the *Evaluierungskommission für Studiengänge an der FHDW (EVAS)*
+* since 2019 Full Stack Softwareentwickler
 * 2017-2019 dual student - software development
 * 2016-2017 dual student - software testing
 

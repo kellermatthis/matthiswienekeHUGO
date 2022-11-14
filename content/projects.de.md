@@ -3,7 +3,7 @@ title = "Projekte"
 slug = "Projekte"
 +++
 
-# Öffentlich
+# &Ouml;ffentlich
 
 * [Angular webp converter](https://github.com/kellermatthis/webp-converter)
 * [Svelte PDF Merger](https://github.com/kellermatthis/SveltePDFMerge)
