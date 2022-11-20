@@ -63,10 +63,10 @@ weight = 4
 url = "https://www.linkedin.com/in/matthis-wieneke-a617a2218/"
 
 [[params.social]]
-name = "Industrial Portfolio"
+name = "Fotodokumentiert"
 icon = "fa fa-2x fa-camera"
 weight = 4
-url = "https://industrial-portfolio.de/"
+url = "https://fotodokumentiert.de/"
 
 [languages.en]
 languageName = ":uk:"
